@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1091898740933",
+    "project_id": "doctor-brain-58f2d",
+    "storage_bucket": "doctor-brain-58f2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091898740933:android:1217bd3f6b0fb3e74320ac",
+        "android_client_info": {
+          "package_name": "pt.ipp.estg.doctorbrain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091898740933-1dfuaentp477fgkonvra6d7t0lbke1ns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXcL4uGEU6P1AQKXWndNIRZlihUhjFpZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091898740933-1dfuaentp477fgkonvra6d7t0lbke1ns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
